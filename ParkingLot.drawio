@@ -1,1 +1,181 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T02:50:53.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.8" etag="cvjl2SJ18dvC4-1gbw0P" type="github"><diagram id="sjArjSPT820R5G_N_hfZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-22T06:05:58.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="lL5eBou1xyxdUO4JKZEA" version="15.5.8" type="github">
+  <diagram id="sjArjSPT820R5G_N_hfZ" name="Page-1">
+    <mxGraphModel dx="1960" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-1" value="ParkingLot:: parkCar()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-2" value="Vincent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-3" value="Parkong Lot" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-4" value="ParkingLot:: fetchCar()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="280" as="sourcePoint" />
+            <mxPoint x="300" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="cpp80sT3RA8E_YLxmL_V-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="500" as="sourcePoint" />
+            <mxPoint x="120" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="440" as="sourcePoint" />
+            <mxPoint x="300" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="470" as="sourcePoint" />
+            <mxPoint x="120" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-9" value="car : Car" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-10" value="car : Car" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-11" value="ticket : Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-12" value="ticket : Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-13" value="Tasking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-14" value="Testing should when given" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-15" value="1. park a car and return a ticket&lt;br&gt;&lt;br&gt;2. fetch a car by input a ticket&lt;br&gt;&lt;br&gt;3.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-16" value="given&lt;br&gt;1. car&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-17" value="then&lt;br&gt;1. ticket&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="55" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-18" value="given&lt;br&gt;2. ticket&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-19" value="when&lt;br&gt;1. parkCar()&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="55" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-20" value="when&lt;br&gt;2. fetchCar()&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-21" value="then&lt;br&gt;2. car&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-22" value="Car {&lt;br&gt;String carID,&lt;br&gt;String correspondReceipt&lt;br&gt;&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-23" value="Receipt {&lt;br&gt;String receiptID,&lt;br&gt;String correspondCar&lt;br&gt;Boolean isUsed&lt;br&gt;&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="199" y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;CarPark {&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;int capacity,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;cars: List&amp;lt;Car&amp;gt;&lt;/font&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;}&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-25" value="ParkingLot:: hasSpace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-26" value="ParkingLot:: hasCar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="450" as="sourcePoint" />
+            <mxPoint x="600" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="600" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-29" value="capacity: int&lt;br&gt;carList: List&amp;lt;car&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-30" value="v" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-31" value="hasSpace: boolean&lt;br&gt;ticket : Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-32" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;carList: List&amp;lt;car&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ticket : Ticket&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="470" as="sourcePoint" />
+            <mxPoint x="420" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-34" value="hasCar: boolean&lt;br&gt;car: Car" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-35" value="given&lt;br&gt;3. parkingLog&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-36" value="when&lt;br&gt;3. hasSpace()&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-37" value="then&lt;br&gt;3. ticket&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-47" value="given&lt;br&gt;4. parkingLog&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-48" value="when&lt;br&gt;4. hasSpace()&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-49" value="then&lt;br&gt;4. Null&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-50" value="given&lt;br&gt;5.null car&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="55" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-51" value="then&lt;br&gt;5. null" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="55" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-52" value="when&lt;br&gt;5. parkCar()&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="55" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-53" value="given&lt;br&gt;6. null receipt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1187.5" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-54" value="then&lt;br&gt;6. null" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1402.5" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-55" value="when&lt;br&gt;6. fetchCar()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1302.5" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-60" value="given&lt;br&gt;7. used receipt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-61" value="when&lt;br&gt;7. fetchCar()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1312.5" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpp80sT3RA8E_YLxmL_V-62" value="then&lt;br&gt;7. null" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1412.5" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
