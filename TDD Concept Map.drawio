@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T02:38:57.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="W8ujifNCh_m5dpuAgfz0" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T02:42:56.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="DtyNmhfU9_3v9E1wBuxr" version="15.5.9" type="github">
   <diagram id="XblzcxGRHUzjr9p-0842" name="Page-1">
-    <mxGraphModel dx="983" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,9 +27,9 @@
           <mxGeometry x="530" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oWt1c-0w8IS1T-IPn0zn-4" value="What have we learnt about TDD?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="80" width="130" height="30" as="geometry" />
+          <mxGeometry x="530" y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWt1c-0w8IS1T-IPn0zn-5" target="gmGLZBwXflhIAo7ZA7hw-9">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oWt1c-0w8IS1T-IPn0zn-5" target="gmGLZBwXflhIAo7ZA7hw-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="340" />
@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWt1c-0w8IS1T-IPn0zn-5" target="gmGLZBwXflhIAo7ZA7hw-10">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oWt1c-0w8IS1T-IPn0zn-5" target="gmGLZBwXflhIAo7ZA7hw-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="340" />
@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWt1c-0w8IS1T-IPn0zn-5" target="gmGLZBwXflhIAo7ZA7hw-13">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oWt1c-0w8IS1T-IPn0zn-5" target="gmGLZBwXflhIAo7ZA7hw-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="340" />
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-20" value="contains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gmGLZBwXflhIAo7ZA7hw-19">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-20" value="contains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gmGLZBwXflhIAo7ZA7hw-19" vertex="1" connectable="0">
           <mxGeometry x="-0.9272" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -64,7 +64,17 @@
         <mxCell id="oWt1c-0w8IS1T-IPn0zn-5" value="Basic Steps" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BmqrWhdEjeirKWVDw3WH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oWt1c-0w8IS1T-IPn0zn-6" target="BmqrWhdEjeirKWVDw3WH-2">
+        <mxCell id="BmqrWhdEjeirKWVDw3WH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oWt1c-0w8IS1T-IPn0zn-6" target="BmqrWhdEjeirKWVDw3WH-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VqQ6hDxE0CcQu-wHCo0w-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWt1c-0w8IS1T-IPn0zn-6" target="BmqrWhdEjeirKWVDw3WH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VqQ6hDxE0CcQu-wHCo0w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWt1c-0w8IS1T-IPn0zn-6" target="VqQ6hDxE0CcQu-wHCo0w-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oWt1c-0w8IS1T-IPn0zn-6" value="Advantage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -76,42 +86,45 @@
         <mxCell id="YqAZ2nqPw5MRuWLS1-NX-3" value="&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;TDD methodology follows a very simple 6 step process:&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;1) Write a test case:&lt;/span&gt;&amp;nbsp;Based on the requirements, write an automated test case.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;2) Run all the test cases:&lt;/span&gt;&amp;nbsp;Run these automated test cases on the currently developed code.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;3) Develop the code for that test cases:&lt;/span&gt;&amp;nbsp;If the test case fails, then, write the code to make that test-case work as expected.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;4) Run test cases again:&lt;/span&gt;&amp;nbsp;Run the test cases again and check if all the test cases developed so far are implemented.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;5) Refactor your code:&lt;/span&gt;&amp;nbsp;This is an optional step. However, it’s important to refactor your code to make it more readable and reusable.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;6) Repeat the steps 1- 5 for new test cases:&lt;/span&gt;&amp;nbsp;Repeat the cycle for the other test cases until all the test cases are implemented.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="990" y="520" width="690" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-3" value="What is a good test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-3" value="What is a good test ?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="250" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BmqrWhdEjeirKWVDw3WH-1" value="TDD Lifecycle&lt;br&gt;&lt;br&gt;Test Fail&lt;br&gt;Code PAss&lt;br&gt;Refactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="260" width="190" height="30" as="geometry" />
+        <mxCell id="BmqrWhdEjeirKWVDw3WH-1" value="TDD Lifecycle&lt;br&gt;&lt;br&gt;Test Fail&lt;br&gt;Code PAss&lt;br&gt;Refactor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="268" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmGLZBwXflhIAo7ZA7hw-9" target="gmGLZBwXflhIAo7ZA7hw-10">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gmGLZBwXflhIAo7ZA7hw-9" target="gmGLZBwXflhIAo7ZA7hw-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-12" value="commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gmGLZBwXflhIAo7ZA7hw-11">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-12" value="commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gmGLZBwXflhIAo7ZA7hw-11" vertex="1" connectable="0">
           <mxGeometry x="-0.12" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BmqrWhdEjeirKWVDw3WH-2" value="Save Time in Debugging" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="BmqrWhdEjeirKWVDw3WH-2" value="Save Time in Debugging" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-9" value="1. Write a test case&lt;br&gt;2. Run test, update test until get failure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-9" value="1. Write a test case&lt;br&gt;2. Run test, update test until get failure" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BmqrWhdEjeirKWVDw3WH-4" value="Easy maintainance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="BmqrWhdEjeirKWVDw3WH-4" value="Easy maintainance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gmGLZBwXflhIAo7ZA7hw-10" target="gmGLZBwXflhIAo7ZA7hw-13">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gmGLZBwXflhIAo7ZA7hw-10" target="gmGLZBwXflhIAo7ZA7hw-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-16" value="commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gmGLZBwXflhIAo7ZA7hw-15">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-16" value="commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gmGLZBwXflhIAo7ZA7hw-15" vertex="1" connectable="0">
           <mxGeometry x="-0.25" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-10" value="3. Write implementation&lt;br&gt;4. Run test, update code until passed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-10" value="3. Write implementation&lt;br&gt;4. Run test, update code until passed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-13" value="5. Refactor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-13" value="5. Refactor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VqQ6hDxE0CcQu-wHCo0w-2" value="Better code design" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
