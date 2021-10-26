@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T03:10:35.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Jh_vAACh956KfjpHJCkK" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T13:04:26.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="eDVmvoQe5cXk3P96ut_x" version="15.5.9" type="github">
   <diagram id="XblzcxGRHUzjr9p-0842" name="Page-1">
-    <mxGraphModel dx="1426" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTH0hcDIhlESSpkS51e7-1" value="major 5 steps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gmGLZBwXflhIAo7ZA7hw-17">
+        <mxCell id="LTH0hcDIhlESSpkS51e7-1" value="major 5 steps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gmGLZBwXflhIAo7ZA7hw-17" vertex="1" connectable="0">
           <mxGeometry x="-0.2667" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -208,7 +208,7 @@
         <mxCell id="gmGLZBwXflhIAo7ZA7hw-34" value="Focus on requirement - what to achieve" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nKUaNBxe58QQSBvqL-9a-6" value="Unit Test for ckeck code" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nKUaNBxe58QQSBvqL-9a-6" value="Unit Test for check code" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="440" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKUaNBxe58QQSBvqL-9a-7" value="TDD for develop verification&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
