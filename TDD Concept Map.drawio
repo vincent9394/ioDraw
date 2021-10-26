@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T02:46:52.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="AKAVT-dsrXAgIeRYjR1A" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T02:49:19.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="LSknptXXLQJ070nHAevT" version="15.5.9" type="github">
   <diagram id="XblzcxGRHUzjr9p-0842" name="Page-1">
     <mxGraphModel dx="1426" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,29 +49,6 @@
               <mxPoint x="350" y="340" />
               <mxPoint x="350" y="390" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWt1c-0w8IS1T-IPn0zn-5" target="gmGLZBwXflhIAo7ZA7hw-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="340" />
-              <mxPoint x="350" y="340" />
-              <mxPoint x="350" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oWt1c-0w8IS1T-IPn0zn-5" target="gmGLZBwXflhIAo7ZA7hw-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="340" />
-              <mxPoint x="350" y="340" />
-              <mxPoint x="350" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-20" value="contains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gmGLZBwXflhIAo7ZA7hw-19">
-          <mxGeometry x="-0.9272" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oWt1c-0w8IS1T-IPn0zn-5" value="TDD lifecycle" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -128,6 +105,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmGLZBwXflhIAo7ZA7hw-3" target="gmGLZBwXflhIAo7ZA7hw-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gmGLZBwXflhIAo7ZA7hw-3" value="Best Practice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="250" width="150" height="60" as="geometry" />
         </mxCell>
@@ -182,7 +166,7 @@
         <mxCell id="VqQ6hDxE0CcQu-wHCo0w-2" value="Better code design" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="505" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-26" value="Baby steps,&lt;br&gt;many commit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-26" value="Baby steps,&lt;br&gt;many commit,&lt;br&gt;avoid complexity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKUaNBxe58QQSBvqL-9a-2" value="Agile Methodology" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -193,6 +177,9 @@
         </mxCell>
         <mxCell id="gmGLZBwXflhIAo7ZA7hw-29" value="Based on GWT structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-34" value="Focus on requirement - what to achieve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
