@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T02:31:55.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="JZnHChijvhiae5yQqODq" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T02:32:29.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="RWg54WfbKqnyteUzYEHI" version="15.5.9" type="github">
   <diagram id="XblzcxGRHUzjr9p-0842" name="Page-1">
-    <mxGraphModel dx="1426" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="oWt1c-0w8IS1T-IPn0zn-5" value="Basic Steps" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oWt1c-0w8IS1T-IPn0zn-6" value="Advantage5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oWt1c-0w8IS1T-IPn0zn-6" value="Advantage15" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YqAZ2nqPw5MRuWLS1-NX-1" value="Concept of TDD&lt;br&gt;Test Case&amp;nbsp;&lt;br&gt;Refactoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -41,8 +41,11 @@
         <mxCell id="YqAZ2nqPw5MRuWLS1-NX-3" value="&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;TDD methodology follows a very simple 6 step process:&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;1) Write a test case:&lt;/span&gt;&amp;nbsp;Based on the requirements, write an automated test case.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;2) Run all the test cases:&lt;/span&gt;&amp;nbsp;Run these automated test cases on the currently developed code.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;3) Develop the code for that test cases:&lt;/span&gt;&amp;nbsp;If the test case fails, then, write the code to make that test-case work as expected.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;4) Run test cases again:&lt;/span&gt;&amp;nbsp;Run the test cases again and check if all the test cases developed so far are implemented.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;5) Refactor your code:&lt;/span&gt;&amp;nbsp;This is an optional step. However, it’s important to refactor your code to make it more readable and reusable.&lt;/p&gt;&lt;p style=&quot;font-size: 15px ; border: 0px ; margin: 0px 0px 1.4em ; padding: 0px ; color: rgb(58 , 58 , 58) ; font-family: &amp;#34;work sans&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;border: 0px ; margin: 0px ; padding: 0px ; font-weight: 700&quot;&gt;6) Repeat the steps 1- 5 for new test cases:&lt;/span&gt;&amp;nbsp;Repeat the cycle for the other test cases until all the test cases are implemented.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="990" y="520" width="690" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gmGLZBwXflhIAo7ZA7hw-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="gmGLZBwXflhIAo7ZA7hw-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="680" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VHgyH2l8qMYpkpKmfnxG-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
