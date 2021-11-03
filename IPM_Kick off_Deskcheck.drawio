@@ -1,20 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T12:01:30.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="FlTpXlzUsHLNxDP2WoNX" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T12:14:33.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="LL3TE8-mWUlz064C0xQL" version="15.6.8" type="github">
   <diagram id="hVFSXos4nfGW47mv1Q_q" name="Page-1">
-    <mxGraphModel dx="1666" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2835" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="560" width="700" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="f0yt2UfzTtLOXgqNjyk7-1" value="business analyst (BA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f0yt2UfzTtLOXgqNjyk7-3" value="UX Designer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f0yt2UfzTtLOXgqNjyk7-4" value="Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f0yt2UfzTtLOXgqNjyk7-5" value="User Story" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-6" value="IPM (Iteration Planning Meeting)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="348" width="270" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-8" value="Story Kick-off" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="270" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-10" value="Story Desk Check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="350" width="270" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-11" value="Quality assurance (QA)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="590" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-13" value="Parties" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-17" value="Definition" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="160" y="10" width="710" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="f0yt2UfzTtLOXgqNjyk7-18" value="IPM :&amp;nbsp;&lt;span style=&quot;color: rgb(173 , 187 , 196) ; font-family: &amp;#34;metropolis&amp;#34; , sans-serif ; font-size: 17px ; text-align: left ; background-color: rgb(34 , 52 , 60)&quot;&gt;A regular meeting for the core team to understand and align on the work to be done.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="f0yt2UfzTtLOXgqNjyk7-17">
+          <mxGeometry x="-300" y="30" width="680" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
